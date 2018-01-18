@@ -1,0 +1,24 @@
+{
+  "name": "node_api_boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanyaismail/node_api_boilerplate.git"
+  },
+  "author": "Ismail",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hanyaismail/node_api_boilerplate/issues"
+  },
+  "homepage": "https://github.com/hanyaismail/node_api_boilerplate#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongodb": "^3.0.1"
+  }
+}
